@@ -7,7 +7,7 @@
 ---
 
 ## 🛠️ 연습 언어
-  * **Language**: Java / C / Python / C#
+  * **Language**: Java / C / Python
 * **Platform**: [Programmers](https://programmers.co.kr/)
 
 ---
